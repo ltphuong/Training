@@ -1,0 +1,6 @@
+ignore.txt
+*.exe
+#bo qua file exe trong folder bin
+bin/*.exe
+test/
+temp*
